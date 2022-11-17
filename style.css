@@ -7,3 +7,9 @@ body{
     background-color:#a78f30 ;
     padding: 15px;
 }
+
+.textehaut{
+    display: flex;
+    justify-content: space-between;  
+    
+}
