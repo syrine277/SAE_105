@@ -1,3 +1,9 @@
 body{
     background-color: #f7f1d8;
+    margin: 0px;
+}
+
+.haut{
+    background-color:#a78f30 ;
+    padding: 15px;
 }
