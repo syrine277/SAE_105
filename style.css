@@ -4,13 +4,13 @@ body{
 }
 
 .haut{
-        background-color: #1C1E1E;
+        background-color: #4fd4d4;
         display: flex;
         align-items: center;
     }
 
 
-    .texte{
+.texte{
         color: #E4C36D;
         display: flex;
         justify-content: space-between;
@@ -22,8 +22,18 @@ body{
         margin-top: auto;
         margin-bottom: auto;
         font-size: 20px;
-    }
+        padding: auto;
+}
 
-    .logo{
+.logo{
         color: rgb(255, 170, 58);
-    }
+ }
+
+.menu{
+    margin-right: 10px;
+    
+}
+
+.recherche{
+    padding-right: 11px;
+}
