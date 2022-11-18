@@ -4,12 +4,26 @@ body{
 }
 
 .haut{
-    background-color:#a78f30 ;
-    padding: 15px;
-}
+        background-color: #1C1E1E;
+        display: flex;
+        align-items: center;
+    }
 
-.textehaut{
-    display: flex;
-    justify-content: space-between;  
-    
-}
+
+    .texte{
+        color: #E4C36D;
+        display: flex;
+        justify-content: space-between;
+        align-content: center;
+        margin-left: auto;
+        margin-right: auto;
+        gap: 20px;
+        font-weight: bold;
+        margin-top: auto;
+        margin-bottom: auto;
+        font-size: 20px;
+    }
+
+    .logo{
+        color: rgb(255, 170, 58);
+    }
