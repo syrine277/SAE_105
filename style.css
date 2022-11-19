@@ -25,6 +25,7 @@ body{
         padding: auto;
 }
 
+<<<<<<< Updated upstream
 .logo{
         color: rgb(0, 0, 0);
  }
@@ -180,3 +181,10 @@ body{
     }
   }
   
+=======
+.textehaut{
+    display: flex;
+    justify-content: space-between;  
+    gap: 3px;
+}
+>>>>>>> Stashed changes
