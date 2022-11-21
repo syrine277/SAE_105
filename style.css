@@ -41,6 +41,9 @@ body{
 .star {
     animation: star 10s ease-out infinite;
     color: aliceblue;
+    font-size: 85px;
+    padding-left: 80px;
+    
   }
   .wars {
     animation: wars 10s ease-out infinite;
