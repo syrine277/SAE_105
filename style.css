@@ -39,4 +39,7 @@ body{
     padding-right: 11px;
 }
 
-
+.fond{
+  background-image: url(fond2.avif);
+  background-repeat:no-repeat ;
+}
