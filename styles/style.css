@@ -28,4 +28,19 @@ body{
         padding: auto;
 }
 
+.milieu{
+    background-image: url('/img/bureau.avif');
+    width: 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 40%;
+    font-size: 30px;
+   
+}
+
+.menu{
+    padding-right: 20px;
+
+}
 
