@@ -84,6 +84,23 @@ body{
     text-align: center;
 }
 
-.machine{
+.deuxieme{
+    background-image: url('/img/feuille.avif');
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    color: white;
+    padding: 75px;
+    margin-left: 50px;
+    padding-top: 60px;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-bottom: 250px;
+    background-size: cover;
+    border: none;
+    text-align: center;
+}
 
+.sae{
+    display: flex;
 }
