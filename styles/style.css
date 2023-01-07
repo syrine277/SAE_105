@@ -161,10 +161,19 @@ body{
 }
 
 .explication{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(241, 241, 241);
     padding-left: 10px;
     padding-right: 700px;
     padding-top: 70px;
     margin-top: 70px;
-    padding-bottom: 7°px;
+    padding-bottom: 70px;
 }
+
+.crayon{
+    width: 100px;
+    height: 100px;
+    margin-left: 600px;
+    margin-top: 20px;
+    
+}
+
