@@ -287,6 +287,7 @@ body{
 
 .sae2{
     display: flex;
+    margin-top: 150px;
 }
 
 .ex1{
@@ -294,4 +295,53 @@ body{
     padding-top: 330px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
+}
+
+.ex2{
+    color: black;
+    padding-top: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.ex3{
+    color: black;
+    padding-top: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.ex4{
+    color: rgb(255, 255, 255);
+    padding-top: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.ex5{
+    color: rgb(255, 255, 255);
+    padding-top: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.ex6{
+    color: rgb(255, 255, 255);
+    padding-top: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.bas{
+    background-color: #ffffff;
+    padding-bottom: 300px;
+    font-size: 30px;
+}
+
+.contact{
+    padding-top: 40px;
+    padding-left: 30px;
 }
